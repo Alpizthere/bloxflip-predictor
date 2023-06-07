@@ -1,6 +1,6 @@
 GET HERE: https://discord.gg/bloxfliptr
 
-Bloxflip Predictor with 100% accuracy in these gamemodes:
+Bloxflip Predictor with %85 Accuracy
 
 [ Safe ]
 
